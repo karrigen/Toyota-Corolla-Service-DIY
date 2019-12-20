@@ -1,6 +1,5 @@
 # DIY car maintenance 
 
-> 
 * It works for **Toyota Corolla 2008 hatchback** in Adealaide, South Australia. 
 * Check the vehicle type [here](https://www.supercheapauto.com.au) -- click on vehicle select!
 
@@ -29,9 +28,9 @@
 
 # Engine air filter & condition air filter
 
-> Super easy
-
-> No tools are required
+* Super easy
+* Change every two years / clean every half year
+* No tools are required
 
 Engine air filter
 
@@ -40,4 +39,8 @@ Engine air filter
 Carbon air filter (pollen filter)
 
 [![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E "")
+
+# Oil & Oil filter
+
+* Easy but need to be careful
 
