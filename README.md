@@ -57,7 +57,7 @@ Carbon air filter (pollen filter)
 
 * Easy but need to be careful
 * Every half year
-* Ramps (jack & stands), rachet & 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
+* Ramps (jack & stands), ratchet & 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
 
 [![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU)
 
