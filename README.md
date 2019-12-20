@@ -5,9 +5,7 @@
 
 ## Tools needed
 
-![](https://www.supercheapauto.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dwc77310c4/images/576610/SCA_576610_hi-res.jpg?sw=1000&sh=1000&sm=fit | width=100)
-
-
+<img src="https://www.supercheapauto.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dwc77310c4/images/576610/SCA_576610_hi-res.jpg?sw=1000&sh=1000&sm=fit">
 
 - Socket set (including a spark plug removal socket)
 - Oil drain tray (you could use a bucket)
