@@ -40,7 +40,18 @@ Carbon air filter (pollen filter)
 
 [![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E "")
 
+
 # Oil & Oil filter
 
 * Easy but need to be careful
+* Every half year
+* Ramps (jack & stands), rachet & 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
+
+[![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E "")
+
+Worth noticing
+* Warm engine before the work
+* Block back wheels
+* Put oil on the mouth of new oil filter before seal it
+* Don't make the oil filter too tight
 
