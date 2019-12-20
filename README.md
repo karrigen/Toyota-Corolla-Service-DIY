@@ -29,6 +29,11 @@
 * [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
 * [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
 * [Car maintenance tips](https://www.readersdigest.ca/cars/maintenance/)
+* [Dummies car repair](https://www.dummies.com/home-garden/car-repair/)
+* [SuperCheapAuto Howto](https://www.supercheapauto.com.au/blog/how-to)
+* [AutoMD](https://www.automd.com/how-to/)
+* [Game1](http://www.gamesgames.com/game/messy-car-service)
+* [Game2](http://www.agame.com/game/kates-car-service)
 
 # Engine air filter & condition air filter
 
