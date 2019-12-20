@@ -34,11 +34,11 @@
 
 Engine air filter
 
-[![](http://img.youtube.com/vi/FF_rWjXwW80/0.jpg)](http://www.youtube.com/watch?v=FF_rWjXwW80 "")
+[![](http://img.youtube.com/vi/FF_rWjXwW80/0.jpg)](http://www.youtube.com/watch?v=FF_rWjXwW80)
 
 Carbon air filter (pollen filter)
 
-[![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E "")
+[![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E)
 
 
 # Windshield wiper
@@ -46,7 +46,7 @@ Carbon air filter (pollen filter)
 * Easy
 * Use towel to protect windscreen
 
-[![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU "")
+[![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU)
 
 
 
@@ -56,7 +56,7 @@ Carbon air filter (pollen filter)
 * Every half year
 * Ramps (jack & stands), rachet & 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
 
-[![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU "")
+[![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU)
 
 Worth noticing
 * Warm engine before the work
