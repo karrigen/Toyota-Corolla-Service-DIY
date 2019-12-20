@@ -27,7 +27,7 @@
 # References
 * [WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
 * [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
-
+* [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
 
 # Engine air filter & condition air filter
 
