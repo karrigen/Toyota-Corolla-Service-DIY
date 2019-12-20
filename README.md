@@ -33,5 +33,6 @@
 
 > No tools are required
 
-![Engine air filter](https://www.youtube.com/watch?v=FF_rWjXwW80)
+[![](http://img.youtube.com/vi/FF_rWjXwW80/0.jpg)](http://www.youtube.com/watch?v=FF_rWjXwW80 "")
+
 
