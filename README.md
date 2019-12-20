@@ -21,9 +21,12 @@
 - Funnel (optional)
 - Nitrile gloves (optional)
 
-[WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
 
-[HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
+
+
+# References
+* [WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
+* [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
 
 
 # Engine air filter & condition air filter
