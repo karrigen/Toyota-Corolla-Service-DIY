@@ -65,4 +65,11 @@ Worth noticing
 * Don't make the oil filter too tight
 
 
+# Battery
+
+
+
+# Brake pads
+
+
 
