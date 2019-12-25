@@ -21,7 +21,15 @@
 - Nitrile gloves (optional)
 
 
+# Battery
 
+# Brake Fluid
+
+# Brake Pads
+
+# Brake Roter
+
+# Coolant Flush or Radiator Flush
 
 # Engine Air Filter & Pollen Filter (Cabin Filter)
 
@@ -36,21 +44,6 @@
 **Ppollen filter or carbon air filter**
 
 [![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E)
-
-
-# Windshield wiper
-
-* Very Easy
-* Use towel to protect windscreen
-* No tools required
-
-[![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU)
-
-# Windshield Washer Fluid
-
-* Very Easy
-* No tools required
-
 
 
 # Engine Oil & Oil filter
@@ -68,17 +61,29 @@ Warning
 * Don't make the oil filter too tight
 
 
-# Battery
-
-# Brake pads
-
-
 # Fuel filter
+
+
+
+
+
+
 
 # Spark plugs
 
-# Radiator Flush
 
+# Windshield Wiper
+
+* Very Easy
+* Use towel to protect windscreen
+* No tools required
+
+[![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU)
+
+# Windshield Washer Fluid
+
+* Very Easy
+* No tools required
 
 
 
