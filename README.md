@@ -1,23 +1,21 @@
-# DIY car maintenance 
-
-* It works for **Toyota Corolla 2008 hatchback** in Adealaide, South Australia. 
-* Check the vehicle type [here](https://www.supercheapauto.com.au) -- click on vehicle select!
+> It works for **Toyota Corolla 2008 hatchback** in South Australia. 
+> Check the vehicle type [here](https://www.supercheapauto.com.au) -- click on vehicle select!
 
 
-# Tools needed
+# General Tools
 
-<img src="https://www.supercheapauto.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dwc77310c4/images/576610/SCA_576610_hi-res.jpg?sw=1000&sh=1000&sm=fit" width="300">
-
-- Socket set (including a spark plug removal socket)
-- Oil drain tray (you could use a bucket)
+- Socket set (Mainly 21mm on the wheel, 14mm on the brake cliper)
+- Spark plug removal socket
+- Break bar 
+- Oil drain tray or bucket
 - Oil filter remover (either the three arm type or chain type)
-- Wrench (possibly a torque wrench)
+- Ratchet wrench
+- Torque wrench
 - Screwdrivers (possibly)
 - Allen keys (possibly)
-- Car jack
-- Axle stands (you could use a set of ramps)
-- Tyre pressure gauge
+- Car jack and stands (ramps)
 - Old rags
+- Tyre pressure gauge (optional)
 - Funnel (optional)
 - Nitrile gloves (optional)
 
