@@ -27,7 +27,7 @@
 
 * Super easy
 * Change every 1 or 2 years (depends on the quality) | clean every half year
-* No tools are required
+* No tools required
 
 **Engine air filter**
 
@@ -42,24 +42,26 @@
 
 * Very Easy
 * Use towel to protect windscreen
-* No tools are required
+* No tools required
 
 [![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU)
 
 # Windshield Washer Fluid
 
 * Very Easy
+* No tools required
+
 
 
 # Engine Oil & Oil filter
 
 * Easy but need to be careful
-* Every half year
-* Ramps (jack & stands), ratchet & 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
+* Every half year or 5000~8000km on full synthetic oil
+* Ramps (jack & stands), ratchet & 21mm 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
 
 [![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU)
 
-Worth noticing
+Warning
 * Warm engine before the work
 * Block back wheels
 * Put oil on the mouth of new oil filter before seal it
