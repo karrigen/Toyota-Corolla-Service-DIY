@@ -21,7 +21,8 @@
 - Nitrile gloves (optional)
 
 # General Check
-[![](https://www.youtube.com/watch?v=fz-_q5VyvpA)](https://www.youtube.com/watch?v=fz-_q5VyvpA)
+五油 + 三水 + 胎压
+[![](http://img.youtube.com/vi/fz-_q5VyvpA/0.jpg)](http://www.youtube.com/watch?v=fz-_q5VyvpA "")
 
 # Battery
 
