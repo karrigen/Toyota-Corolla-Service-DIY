@@ -1,4 +1,5 @@
 > It works for **Toyota Corolla 2008 hatchback** in South Australia. 
+
 > Check the vehicle type [here](https://www.supercheapauto.com.au) -- click on vehicle select!
 
 
@@ -22,39 +23,32 @@
 
 
 
-# References
-* [WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
-* [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
-* [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
-* [Car maintenance tips](https://www.readersdigest.ca/cars/maintenance/)
-* [Dummies car repair](https://www.dummies.com/home-garden/car-repair/)
-* [SuperCheapAuto Howto](https://www.supercheapauto.com.au/blog/how-to)
-* [AutoMD](https://www.automd.com/how-to/)
-* [Game1](http://www.gamesgames.com/game/messy-car-service)
-* [Game2](http://www.agame.com/game/kates-car-service)
-
-# Engine air filter & condition air filter
+# Engine Air Filter & Pollen Filter (Cabin Filter)
 
 * Super easy
-* Change every two years / clean every half year
+* Change every 1 or 2 years (depends on the quality) | clean every half year
 * No tools are required
 
-Engine air filter
+**Engine air filter**
 
 [![](http://img.youtube.com/vi/FF_rWjXwW80/0.jpg)](http://www.youtube.com/watch?v=FF_rWjXwW80)
 
-Carbon air filter (pollen filter)
+**Ppollen filter or carbon air filter**
 
 [![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E)
 
 
 # Windshield wiper
 
-* Easy
+* Very Easy
 * Use towel to protect windscreen
+* No tools are required
 
 [![](http://img.youtube.com/vi/TzW8btrsFOU/0.jpg)](http://www.youtube.com/watch?v=TzW8btrsFOU)
 
+# Windshield Washer Fluid
+
+* Very Easy
 
 
 # Engine Oil & Oil filter
@@ -76,9 +70,23 @@ Worth noticing
 
 # Brake pads
 
+
 # Fuel filter
 
 # Spark plugs
 
 # Radiator Flush
 
+
+
+
+# References
+* [WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
+* [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
+* [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
+* [Car maintenance tips](https://www.readersdigest.ca/cars/maintenance/)
+* [Dummies car repair](https://www.dummies.com/home-garden/car-repair/)
+* [SuperCheapAuto Howto](https://www.supercheapauto.com.au/blog/how-to)
+* [AutoMD](https://www.automd.com/how-to/)
+* [Game1](http://www.gamesgames.com/game/messy-car-service)
+* [Game2](http://www.agame.com/game/kates-car-service)
