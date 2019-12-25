@@ -34,7 +34,7 @@
 # Engine Air Filter & Pollen Filter (Cabin Filter)
 
 * Super easy
-* Change every 1 or 2 years (depends on the quality) | clean every half year
+* Change every 1 or 2 years (depends on the quality) / clean every half year
 * No tools required
 
 **Engine air filter**
