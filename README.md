@@ -20,6 +20,8 @@
 - Funnel (optional)
 - Nitrile gloves (optional)
 
+# General Check
+[![](https://www.youtube.com/watch?v=fz-_q5VyvpA)](https://www.youtube.com/watch?v=fz-_q5VyvpA)
 
 # Battery
 
