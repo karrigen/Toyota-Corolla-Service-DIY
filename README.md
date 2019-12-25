@@ -14,7 +14,7 @@
 - Torque wrench
 - Screwdrivers (possibly)
 - Allen keys (possibly)
-- Car jack and stands (ramps)
+- Car jack and stands or ramps
 - Old rags
 - Tyre pressure gauge (optional)
 - Funnel (optional)
@@ -93,8 +93,9 @@
 
 
 # References
-* [WORKPRO tool kit](https://www.supercheapauto.com.au/p/workpro-workpro-tool-kit---123-piece/576610.html#vid=RAgwlesrl5QEUqv9OWqGzw%3D%3D&q=workpro&lang=en_AU&start=9)
-* [HOW TO PERFORM A BASIC CAR SERVICE YOURSELF](https://www.autochoicebristol.com/blog/how-to-service-a-car-yourself/#)
+
+* [ChrisFix ](https://www.youtube.com/user/PaintballOO7)
+* [Scotty Kilmer](https://www.youtube.com/channel/UCuxpxCCevIlF-k-K5YU8XPA)
 * [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
 * [Car maintenance tips](https://www.readersdigest.ca/cars/maintenance/)
 * [Dummies car repair](https://www.dummies.com/home-garden/car-repair/)
