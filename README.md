@@ -96,6 +96,7 @@
 
 * [ChrisFix ](https://www.youtube.com/user/PaintballOO7)
 * [Scotty Kilmer](https://www.youtube.com/channel/UCuxpxCCevIlF-k-K5YU8XPA)
+* [Craig's DIY Car](https://www.youtube.com/channel/UCYatDPXXLYABxRud2wd09vQ/videos)
 * [100 Car Maintenance Tasks You Can Do on Your Own](https://www.familyhandyman.com/diy-advice/tips-to-keep-your-car-running-and-looking-good/)
 * [Car maintenance tips](https://www.readersdigest.ca/cars/maintenance/)
 * [Dummies car repair](https://www.dummies.com/home-garden/car-repair/)
