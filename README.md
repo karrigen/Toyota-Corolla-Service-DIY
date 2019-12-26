@@ -51,7 +51,7 @@
 [![](http://img.youtube.com/vi/X8WrL5CQH0E/0.jpg)](http://www.youtube.com/watch?v=X8WrL5CQH0E)
 
 
-# Engine Oil & Oil filter
+# Engine Oil & Oil Filter
 
 * Easy but need to be careful
 * Every half year or 5000~8000km on full synthetic oil
@@ -66,7 +66,7 @@
 * Don't make the oil filter too tight
 
 
-# Fuel filter
+# Fuel Filter
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-# Spark plugs
+# Spark Plugs
 
 
 # Windshield Wiper
