@@ -119,8 +119,8 @@
 
 # Service History
 
-Service | Period | Main Tools | Last Done
-------- | ------ | ----- | ---------
-Brake Pads | When only 3~4mm left | 21mm 14mm socket, ratchet, torque wrench, brake cleaner, | Dec 2019
-
+Service | Period | Product Using | Last Done
+------- | ------ | ------------- | ---------
+Brake Pads | When only 3~4mm left | Bendix ceramic brake pads| Dec 2019 
+Coolant | 8 years | Nulon longlife 50/50 premix coolant red | Dec 2019
 
