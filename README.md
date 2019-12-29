@@ -123,4 +123,6 @@ Service | Period | Product Using | Last Done
 ------- | ------ | ------------- | ---------
 Brake Pads Replacement | When only 3~4mm left | Bendix ceramic brake pads <br>SCA Brake and Parts Cleaner - 400g <br> Bendix brake lubricant| Dec 2019
 Coolant Flush | 8 years | Nulon Red Concentrate Coolant - 6 Litre <br>Nulon Radiator Cooling System Water - 5 Litre <br> Rislone Heavy Duty Super Radiator Flush - 650mL | Dec 2019
+Engine Air Filter | 2 years | Ryco Air Filter | Nov 2019
+Pollen Filter | 2 years |  | Nov 2019
 
