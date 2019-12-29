@@ -34,7 +34,7 @@
 
 * Not too hard
 * Need to replace when 3~4 mm left
-* Jack and stands, 21mm 14mm sockets, ratchet, torque wrench, piston wind back tool, brake lubricant and leaner
+* Jack and stands, 21mm 14mm sockets, ratchet, torque wrench, piston wind back tool, brake lubricant and cleaner
 
 **Warning**
 
