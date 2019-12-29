@@ -40,7 +40,13 @@
 
 * Not too hard 
 * 8 years (or depends on the coolant lifetime)
-* 
+* Need drain pan
+
+**Warning**
+
+* Coolant could be very hot!
+* It could be hard to reach the drain port.
+* Take several cycles with radiator cleaner to flush thoroughly. 
 
 [![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A "")
 
