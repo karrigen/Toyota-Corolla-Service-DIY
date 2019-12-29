@@ -121,7 +121,6 @@
 
 Service | Period | Product Using | Last Done
 ------- | ------ | ------------- | ---------
-Brake Pads Replacement | When only 3~4mm left | Bendix ceramic brake pads | Dec 2019
- | | Rislone Heavy Duty Super Radiator Flush - 650mL |
+Brake Pads Replacement | When only 3~4mm left | Bendix ceramic brake pads <br> Rislone Heavy Duty Super Radiator Flush - 650mL| Dec 2019
 Coolant Flush | 8 years | Nulon longlife 50/50 premix coolant red | Dec 2019
 
