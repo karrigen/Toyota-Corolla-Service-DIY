@@ -32,6 +32,17 @@
 
 # Brake Pads
 
+* Not too hard
+* Need to replace when 3~4 mm left
+* Jack and stands, 21mm 14mm sockets, ratchet, torque wrench, piston wind back tool, brake lubricant and leaner
+
+**Warning**
+
+* The back one is not exactly the same as the front one but similar procedure holds
+* Need to apply lubricant on piston and caliper bolts
+* Hand brake might not work well after replacing the back brake pads 
+
+[![](http://img.youtube.com/vi/lU6OKQxSg8U/0.jpg)](http://www.youtube.com/watch?v=lU6OKQxSg8U "")
 
 
 # Brake Roter
@@ -44,9 +55,9 @@
 
 **Warning**
 
-* Coolant could be very hot!
-* It could be hard to reach the drain port.
-* Take several cycles with radiator cleaner to flush thoroughly. 
+* Coolant could be very hot
+* It could be hard to reach the drain port
+* Take several cycles with radiator cleaner to flush thoroughly
 
 [![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A "")
 
@@ -129,6 +140,6 @@ Service | Period | Product Using | Last Done
 ------- | ------ | ------------- | ---------
 Brake Pads Replacement | When only 3~4mm left | Bendix ceramic brake pads <br>SCA Brake and Parts Cleaner - 400g <br> Bendix brake lubricant| Dec 2019
 Coolant Flush | 8 years | Nulon Red Concentrate Coolant - 6 Litre <br>Nulon Radiator Cooling System Water - 5 Litre <br> Rislone Heavy Duty Super Radiator Flush - 650mL | Dec 2019
-Engine Air Filter | 2 years | Ryco Air Filter | Nov 2019
-Pollen Filter | 2 years |  | Nov 2019
+Engine Air Filter Replacement| 2 years | Ryco Air Filter | Nov 2019
+Pollen Filter Replacement| 2 years |  | Nov 2019
 
