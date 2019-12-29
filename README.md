@@ -32,9 +32,19 @@
 
 # Brake Pads
 
+
+
 # Brake Roter
 
 # Coolant Flush or Radiator Flush
+
+* Not too hard 
+* 
+*
+
+[![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A "")
+
+
 
 # Engine Air Filter & Pollen Filter (Cabin Filter)
 
@@ -91,7 +101,6 @@
 * No tools required
 
 
-
 # References
 
 * [ChrisFix ](https://www.youtube.com/user/PaintballOO7)
@@ -106,3 +115,12 @@
 * [Game2](http://www.agame.com/game/kates-car-service)
 * [Toyota Corolla: manuals and technical data](http://www.tcorolla.net)
 * [Corolla Forum](https://au.toyotaownersclub.com/forums/forum/4-corolla-corolla-sportivo-club/)
+
+
+# Service History
+
+Service | Period | Tools | Last Done
+------- | ------ | ----- | ---------
+
+
+
