@@ -119,8 +119,8 @@
 
 # Service History
 
-Service | Period | Tools | Last Done
+Service | Period | Main Tools | Last Done
 ------- | ------ | ----- | ---------
-
+Brake Pads | When only 3~4mm left | 21mm 14mm socket, ratchet, torque wrench, brake cleaner, | Dec 2019
 
 
