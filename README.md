@@ -39,8 +39,8 @@
 # Coolant Flush or Radiator Flush
 
 * Not too hard 
+* 8 years (or depends on the coolant lifetime)
 * 
-*
 
 [![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A "")
 
@@ -67,13 +67,13 @@
 * Every half year or 5000~8000km on full synthetic oil
 * Ramps (jack & stands), ratchet & 21mm 14mm socket, drain pan, funnel, towel, new engine oil & filter, oil filter wrench if possible 
 
-[![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU)
-
 **Warning**
 * Warm engine before the work
 * Block back wheels
 * Put oil on the mouth of new oil filter before seal it
 * Don't make the oil filter too tight
+
+[![](http://img.youtube.com/vi/4Gw9WAXLxGU/0.jpg)](http://www.youtube.com/watch?v=4Gw9WAXLxGU)
 
 
 # Fuel Filter
@@ -121,6 +121,7 @@
 
 Service | Period | Product Using | Last Done
 ------- | ------ | ------------- | ---------
-Brake Pads | When only 3~4mm left | Bendix ceramic brake pads| Dec 2019 
-Coolant | 8 years | Nulon longlife 50/50 premix coolant red | Dec 2019
+Brake Pads Replacement | When only 3~4mm left | Bendix ceramic brake pads | Dec 2019
+ | | Rislone Heavy Duty Super Radiator Flush - 650mL |
+Coolant Flush | 8 years | Nulon longlife 50/50 premix coolant red | Dec 2019
 
