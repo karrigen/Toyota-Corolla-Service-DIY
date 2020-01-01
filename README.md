@@ -118,6 +118,18 @@
 * No tools required
 
 
+# Chemicals
+
+* Lithium grease for latches and hinges
+* Brake cleaner for removing oil and grease from metal parts
+* Rust penetrant for removing rusted fasteners
+* Dry lubricant for lubricating metal to metal, and metal to plastic or rubber
+* Electronic parts cleaner for dissolving corrosion on electrical connectors
+* Anti-seize lubricant to prevent nuts and bolts from seizing in place
+* Dielectric grease to repel water in electrical connections and prevent corrosion
+* Silicone spray to lubricate windows and weather stripping
+
+
 # References
 
 * [ChrisFix ](https://www.youtube.com/user/PaintballOO7)
