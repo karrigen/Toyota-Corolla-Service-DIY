@@ -24,7 +24,7 @@
 
 五油 + 三水 + 胎压
 
-[![](http://img.youtube.com/vi/fz-_q5VyvpA/0.jpg)](http://www.youtube.com/watch?v=fz-_q5VyvpA "")
+[![](http://img.youtube.com/vi/fz-_q5VyvpA/0.jpg)](http://www.youtube.com/watch?v=fz-_q5VyvpA)
 
 # Battery
 
@@ -42,7 +42,7 @@
 * Need to apply lubricant on piston and caliper bolts
 * Hand brake might not work well after replacing the back brake pads 
 
-[![](http://img.youtube.com/vi/lU6OKQxSg8U/0.jpg)](http://www.youtube.com/watch?v=lU6OKQxSg8U "")
+[![](http://img.youtube.com/vi/lU6OKQxSg8U/0.jpg)](http://www.youtube.com/watch?v=lU6OKQxSg8U)
 
 
 # Brake Roter
@@ -59,7 +59,7 @@
 * It could be hard to reach the drain port
 * Take several cycles with radiator cleaner to flush thoroughly
 
-[![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A "")
+[![](http://img.youtube.com/vi/g8YZF5cW7-A/0.jpg)](http://www.youtube.com/watch?v=g8YZF5cW7-A)
 
 
 
